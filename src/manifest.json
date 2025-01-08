@@ -1,0 +1,754 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "scene1",
+      "assets": [
+        {
+          "alias": [
+            "scene1/images/banderole1.png"
+          ],
+          "src": [
+            "scene1/images/banderole1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/banderole2.png"
+          ],
+          "src": [
+            "scene1/images/banderole2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/banderole3.png"
+          ],
+          "src": [
+            "scene1/images/banderole3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/banderole4.png"
+          ],
+          "src": [
+            "scene1/images/banderole4.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/banderole5.png"
+          ],
+          "src": [
+            "scene1/images/banderole5.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/banderole6.png"
+          ],
+          "src": [
+            "scene1/images/banderole6.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/bg.webp"
+          ],
+          "src": [
+            "scene1/images/bg.webp"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/bottom-mask.png"
+          ],
+          "src": [
+            "scene1/images/bottom-mask.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f1-petal1.png"
+          ],
+          "src": [
+            "scene1/images/f1-petal1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f1-petal2.png"
+          ],
+          "src": [
+            "scene1/images/f1-petal2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f1-petal3.png"
+          ],
+          "src": [
+            "scene1/images/f1-petal3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f1.png"
+          ],
+          "src": [
+            "scene1/images/f1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f2-petal1.png"
+          ],
+          "src": [
+            "scene1/images/f2-petal1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f2-petal2.png"
+          ],
+          "src": [
+            "scene1/images/f2-petal2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f2.png"
+          ],
+          "src": [
+            "scene1/images/f2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/f3.png"
+          ],
+          "src": [
+            "scene1/images/f3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/person1.png"
+          ],
+          "src": [
+            "scene1/images/person1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/person2.png"
+          ],
+          "src": [
+            "scene1/images/person2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/person3.png"
+          ],
+          "src": [
+            "scene1/images/person3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/person4.png"
+          ],
+          "src": [
+            "scene1/images/person4.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/sTitle.png"
+          ],
+          "src": [
+            "scene1/images/sTitle.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/text.png"
+          ],
+          "src": [
+            "scene1/images/text.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene1/images/title.png"
+          ],
+          "src": [
+            "scene1/images/title.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "scene2",
+      "assets": [
+        {
+          "alias": [
+            "scene2/images/autobiography-bg.png"
+          ],
+          "src": [
+            "scene2/images/autobiography-bg.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/autobiography.png"
+          ],
+          "src": [
+            "scene2/images/autobiography.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/banner-pop1.png"
+          ],
+          "src": [
+            "scene2/images/banner-pop1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/banner-pop2.png"
+          ],
+          "src": [
+            "scene2/images/banner-pop2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/banner-pop3.png"
+          ],
+          "src": [
+            "scene2/images/banner-pop3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/banner-pop4.png"
+          ],
+          "src": [
+            "scene2/images/banner-pop4.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/banner-pop5.png"
+          ],
+          "src": [
+            "scene2/images/banner-pop5.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/banner-pop6.png"
+          ],
+          "src": [
+            "scene2/images/banner-pop6.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/bg-cover.png"
+          ],
+          "src": [
+            "scene2/images/bg-cover.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/bg1.webp"
+          ],
+          "src": [
+            "scene2/images/bg1.webp"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/bg2.webp"
+          ],
+          "src": [
+            "scene2/images/bg2.webp"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/crowd1.png"
+          ],
+          "src": [
+            "scene2/images/crowd1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/crowd2.png"
+          ],
+          "src": [
+            "scene2/images/crowd2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/crowd3.png"
+          ],
+          "src": [
+            "scene2/images/crowd3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/dialogue-1.png"
+          ],
+          "src": [
+            "scene2/images/dialogue-1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/dialogue-2.png"
+          ],
+          "src": [
+            "scene2/images/dialogue-2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/dialogue-3.png"
+          ],
+          "src": [
+            "scene2/images/dialogue-3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/grass1.png"
+          ],
+          "src": [
+            "scene2/images/grass1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/grass2.png"
+          ],
+          "src": [
+            "scene2/images/grass2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/grass3.png"
+          ],
+          "src": [
+            "scene2/images/grass3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/text.png"
+          ],
+          "src": [
+            "scene2/images/text.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/0.png"
+          ],
+          "src": [
+            "scene2/images/walk/0.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/1.png"
+          ],
+          "src": [
+            "scene2/images/walk/1.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/10.png"
+          ],
+          "src": [
+            "scene2/images/walk/10.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/11.png"
+          ],
+          "src": [
+            "scene2/images/walk/11.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/12.png"
+          ],
+          "src": [
+            "scene2/images/walk/12.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/13.png"
+          ],
+          "src": [
+            "scene2/images/walk/13.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/14.png"
+          ],
+          "src": [
+            "scene2/images/walk/14.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/15.png"
+          ],
+          "src": [
+            "scene2/images/walk/15.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/16.png"
+          ],
+          "src": [
+            "scene2/images/walk/16.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/17.png"
+          ],
+          "src": [
+            "scene2/images/walk/17.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/18.png"
+          ],
+          "src": [
+            "scene2/images/walk/18.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/19.png"
+          ],
+          "src": [
+            "scene2/images/walk/19.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/2.png"
+          ],
+          "src": [
+            "scene2/images/walk/2.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/20.png"
+          ],
+          "src": [
+            "scene2/images/walk/20.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/21.png"
+          ],
+          "src": [
+            "scene2/images/walk/21.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/22.png"
+          ],
+          "src": [
+            "scene2/images/walk/22.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/23.png"
+          ],
+          "src": [
+            "scene2/images/walk/23.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/24.png"
+          ],
+          "src": [
+            "scene2/images/walk/24.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/25.png"
+          ],
+          "src": [
+            "scene2/images/walk/25.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/26.png"
+          ],
+          "src": [
+            "scene2/images/walk/26.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/27.png"
+          ],
+          "src": [
+            "scene2/images/walk/27.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/28.png"
+          ],
+          "src": [
+            "scene2/images/walk/28.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/29.png"
+          ],
+          "src": [
+            "scene2/images/walk/29.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/3.png"
+          ],
+          "src": [
+            "scene2/images/walk/3.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/30.png"
+          ],
+          "src": [
+            "scene2/images/walk/30.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/31.png"
+          ],
+          "src": [
+            "scene2/images/walk/31.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/32.png"
+          ],
+          "src": [
+            "scene2/images/walk/32.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/33.png"
+          ],
+          "src": [
+            "scene2/images/walk/33.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/34.png"
+          ],
+          "src": [
+            "scene2/images/walk/34.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/35.png"
+          ],
+          "src": [
+            "scene2/images/walk/35.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/36.png"
+          ],
+          "src": [
+            "scene2/images/walk/36.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/37.png"
+          ],
+          "src": [
+            "scene2/images/walk/37.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/38.png"
+          ],
+          "src": [
+            "scene2/images/walk/38.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/39.png"
+          ],
+          "src": [
+            "scene2/images/walk/39.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/4.png"
+          ],
+          "src": [
+            "scene2/images/walk/4.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/40.png"
+          ],
+          "src": [
+            "scene2/images/walk/40.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/41.png"
+          ],
+          "src": [
+            "scene2/images/walk/41.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/42.png"
+          ],
+          "src": [
+            "scene2/images/walk/42.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/43.png"
+          ],
+          "src": [
+            "scene2/images/walk/43.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/44.png"
+          ],
+          "src": [
+            "scene2/images/walk/44.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/45.png"
+          ],
+          "src": [
+            "scene2/images/walk/45.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/46.png"
+          ],
+          "src": [
+            "scene2/images/walk/46.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/47.png"
+          ],
+          "src": [
+            "scene2/images/walk/47.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/5.png"
+          ],
+          "src": [
+            "scene2/images/walk/5.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/6.png"
+          ],
+          "src": [
+            "scene2/images/walk/6.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/7.png"
+          ],
+          "src": [
+            "scene2/images/walk/7.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/8.png"
+          ],
+          "src": [
+            "scene2/images/walk/8.png"
+          ]
+        },
+        {
+          "alias": [
+            "scene2/images/walk/9.png"
+          ],
+          "src": [
+            "scene2/images/walk/9.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

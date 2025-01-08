@@ -1,3 +1,6 @@
 .history
 node_modules
 .DS_Store
+/.assetpack
+/.vscode
+/public

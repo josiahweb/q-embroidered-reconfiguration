@@ -1,6 +1,0 @@
-{
-  "compilerOptions": {
-    "baseUrl": ".", //设置基础路径
-    "paths": { "@/*": ["src/*"] } //路径映射
-  }
-}

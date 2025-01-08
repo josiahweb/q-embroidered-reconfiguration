@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src --fix --ext .js,.ts --report-unused-disable-directives --max-warnings 0",
     "prepare": "husky install",
@@ -31,6 +32,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@assetpack/core": "^1.2.3",
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.6.0",
     "@types/node": "^22.10.5",
@@ -42,6 +44,7 @@
     "eslint-plugin-prettier": "^5.2.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.3.0",
+    "phy-touch": "^0.2.2",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2",
     "typescript-eslint": "^8.19.0",
